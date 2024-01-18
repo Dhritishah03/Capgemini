@@ -1,1 +1,3 @@
 # Capgemini
+Collaborated with Capgemini, working alongside a company mentor on fall and foul detection using machine learning.
+So it focuses on object detection and pose estimation using yolo where we can detect the fall. We used many models like VG16, CNN, ResNet, EfficientNetB0. I worked on the yolo part as well as developed the EfficientNetB0 Model which achieved a test accuracy of 98%. The RestNet model achieved an accuracy of 96% on the test case. We are using Event detection for real time match analysis. So currently we have started working on the publication and writing a research paper on the same.
